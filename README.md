@@ -5,7 +5,7 @@ Identify differentially expressed genes (DEGs) by comparing publicly available R
 
 ## 💾 Data Acquisition
 * **Database:** NCBI Sequence Read Archive
-* **Sample Selection:** [6] Tumor and [6] Matched Normal samples were selected. SRA Accessions are listed in `sample_accessions.txt`.
+* **Sample Selection:** [5] Tumor and [5] Matched Normal samples were selected. SRA Accessions are listed in `sample_accessions.txt`.
 
 ## 🛠️ Methodology & Tools
 The analysis was performed using the following steps:

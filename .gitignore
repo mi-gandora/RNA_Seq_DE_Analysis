@@ -1,0 +1,13 @@
+# Ignore large binary data files and common analysis output
+*.fasta
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.vcf
+
+# Ignore R/Python environment files
+*.Rdata
+.Rhistory
+__pycache__/
